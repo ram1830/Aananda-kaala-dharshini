@@ -1,0 +1,7 @@
+login page with forgot password(email checks)
+sign up page (email checks, phone checks)
+
+
+from login page 
+a menu should pop out kundali , age date (different database)
+sno and customer id unqiue values 
